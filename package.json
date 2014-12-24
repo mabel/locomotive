@@ -1,26 +1,27 @@
 {
-  "name": "locomotive",
-  "version": "0.4.2",
-  "description": "Powerful MVC web framework for Node.js.",
+  "name": "logomotive",
+  "version": "0.4.9",
+  "description": "A fork of Locomotice web server with login and model layer. To see the original version of Locomotive please go to http://locomotivejs.org",
   "keywords": [
     "express",
     "connect",
     "web",
     "mvc",
+	"model",
     "rails"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Michael Belyakov",
+    "email": "pochta@yababay.ru",
+    "url": "http://yababay.ru/"
   },
-  "homepage": "http://locomotivejs.org/",
+  "homepage": "http://mabel.github.io/locomotive/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/locomotive.git"
+    "url": "git://github.com/mabel/locomotive.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/locomotive/issues"
+    "url": "http://github.com/mabel/locomotive/issues"
   },
   "licenses": [
     {
@@ -45,9 +46,7 @@
     "scripts": "0.1.x",
     "utils-flatten": "1.x.x",
     "syntax-error": "0.0.1",
-    "debug": "0.7.x",
-    "body-parser": "^1.10.0",
-    "method-override": "^2.3.0"
+    "debug": "0.7.x"
   },
   "devDependencies": {
     "mocha": "1.x.x",
