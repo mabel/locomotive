@@ -1,6 +1,6 @@
 {
   "name": "logomotive",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "A fork of Locomotice web server with login and model layer. To see the original version of Locomotive please go to http://locomotivejs.org",
   "keywords": [
     "express",
